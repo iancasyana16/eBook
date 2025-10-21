@@ -26,7 +26,8 @@ Platform manajemen e-book dengan sistem Login/Register, Dashboard, dan PDF Viewe
 ### Langkah Instalasi
 1. **Clone Repository**
    ```
-   git clone https://github.com/iancasyana16/eBook.gitcd ebook
+   git clone https://github.com/iancasyana16/eBook.git
+   cd ebook
    ```
 2. **Install Dependencies PHP**
    ```
